@@ -2,7 +2,7 @@
 
 > *Five specialized agents. One definitive verdict. Institutional-grade portfolio intelligence for every investor.*
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Click_Here-F5A623?style=for-the-badge&logo=vercel&logoColor=black)](https://your-vercel-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Click_Here-F5A623?style=for-the-badge&logo=vercel&logoColor=black)](https://oracle-three-beta.vercel.app)
 [![YouTube](https://img.shields.io/badge/DEMO_VIDEO-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/your-demo)
 [![Swarms](https://img.shields.io/badge/SWARMS-Marketplace-00E5A0?style=for-the-badge)](https://swarms.world/agent/YOUR_AGENT_ID)
 [![Hackathon](https://img.shields.io/badge/ACM_HACKATHON-2026-9B6DFF?style=for-the-badge)](https://docs.swarms.ai/docs/marketplace/acm-hackathon)
@@ -13,7 +13,7 @@
 
 | Resource | URL |
 |----------|-----|
-| 🚀 Live Demo | https://your-vercel-url.vercel.app |
+| 🚀 Live Demo | https://oracle-three-beta.vercel.app |
 | 🎥 Demo Video | https://youtube.com/your-demo |
 | 🛒 Swarms Listing | https://swarms.world/agent/YOUR_AGENT_ID |
 | 💻 GitHub | https://github.com/YOUR_USERNAME/oracle-defi |
@@ -182,7 +182,7 @@ npm  >= 9.0.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/oracle-defi.git
+git clone https://github.com/0xkinno/oracle-defi.git
 cd oracle-defi
 
 # Install dependencies
