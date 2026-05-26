@@ -44,6 +44,7 @@ export default function TurbineDisplay({ isAnalyzing, completedAgents, overallSc
     const boxR = 7
 
     function roundRect(x: number, y: number, w: number, h: number, r: number) {
+      if (!ctx) return
       ctx.beginPath()
       ctx.moveTo(x + r, y)
       ctx.lineTo(x + w - r, y)
@@ -58,6 +59,7 @@ export default function TurbineDisplay({ isAnalyzing, completedAgents, overallSc
     }
 
     function draw() {
+      if (!ctx) return
       ctx.clearRect(0, 0, W, H)
       const t = frameRef.current
 
