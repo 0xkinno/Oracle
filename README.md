@@ -273,14 +273,14 @@ npm start
 
 ORACLE is listed and tokenized on the Swarms Marketplace (ACM Hackathon 2026).
 
-- **Listing:** https://swarms.world/agent/YOUR_AGENT_ID
+- **Listing:** https://swarms.world/agent/e1594368-415f-49cd-8755-8c90d146a1b9
 - **Token:** $ORACLE (Frenzy Mode enabled)
 - **Category:** DeFi Intelligence / Portfolio Analysis
 - **Hackathon:** ACM Hackathon — $30,000 prize pool
 
 ---
 
-## Why ORACLE Wins
+## Why ORACLE Is Different
 
 ```
 ┌─────────────────────────┬──────────────┬───────────────┐
