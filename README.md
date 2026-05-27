@@ -16,7 +16,7 @@
 | 🚀 Live Demo | https://oracle-three-beta.vercel.app |
 | 🎥 Demo Video | https://youtu.be/VIL5GT5EYw4?si=-bZvYHKejDYtHaO6 |
 | 🛒 Swarms Listing | https://swarms.world/agent/e1594368-415f-49cd-8755-8c90d146a1b9 |
-| 💻 GitHub | https://github.com/YOUR_USERNAME/oracle-defi |
+| 💻 GitHub | https://github.com/0xkinno/Oracle |
 
 ---
 
